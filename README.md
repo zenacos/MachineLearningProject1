@@ -1,4 +1,4 @@
-Car Price Prediction: Linear Regression from Scratch
+Car Price Prediction: Linear Regression from Scratch:
 This project aims to predict car selling prices based on various features such as year, mileage, fuel type, and transmission. The core highlight of this repository is the custom implementation of the Linear Regression algorithm and Gradient Descent optimization without relying on high-level machine learning libraries like Scikit-Learn.
 
 Key Highlights
